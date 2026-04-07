@@ -50,7 +50,7 @@ python SokobanGame.py
 
 **Main Menu** | **Gameplay** | **Level Complete**
 ---|---|---
-![Menu](screenshots/menu.png) | ![Gameplay](screenshots/gameplay.png) | ![Win](screenshots/win.png)
+![Menu](screenshots\Menu.png) | ![Gameplay](screenshots\Gameplay.png) | ![Win](screenshots\Win.png)
 
 ## 🏆 Levels
 | # | Name      | Difficulty | Boxes |
