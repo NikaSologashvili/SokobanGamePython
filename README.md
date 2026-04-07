@@ -46,8 +46,6 @@ python SokobanGame.py
 ```
 
 ## 📁 Screenshots
-*(Add your own gameplay screenshots here after testing!)*
-
 **Main Menu** | **Gameplay** | **Level Complete**
 ---|---|---
 ![Menu](screenshots\Menu.png) | ![Gameplay](screenshots\Gameplay.png) | ![Win](screenshots\Win.png)
